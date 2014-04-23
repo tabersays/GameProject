@@ -62,14 +62,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="combat.cpp" />
     <ClCompile Include="Game.cpp" />
-    <ClCompile Include="heroStats.cpp" />
-    <ClCompile Include="leval2.cpp" />
-    <ClCompile Include="levelSelecter.cpp" />
-    <ClCompile Include="mainMenu.cpp" />
-    <ClCompile Include="monsters.cpp" />
-    <ClCompile Include="newGame.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="combat.h" />
